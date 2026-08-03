@@ -1,0 +1,32 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+
+# 编译目录
+build/
+dist/
+target/
+out/
+
+# 依赖
+node_modules/
+
+# 临时文件
+*.log
+*.tmp
+*.bak
+
+
+
+# 自定义
+*dSYM
+
+test/
